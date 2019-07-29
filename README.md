@@ -37,7 +37,7 @@
 ### 目录结构
 此处可以贴一张仓库文件结构图，如下
 
-![目录结构](https://git.shunwang.com/dc-platform/computational-advertising/raw/dev/trafficPrediction/img/structure.png)
+![目录结构](https://github.com/KyleZheng8848/PRE_GET_SOUGOU_DICT/blob/master/dict_spider_sougou/pic/pic.png?raw=true)
 
     
 ### 文件说明
